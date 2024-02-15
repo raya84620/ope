@@ -1,0 +1,43 @@
+Personal Details:-
+
+Name
+2 lines for yourself
+address
+language known
+interests/hobbies
+contect info
+
+phone no
+email
+telegram 
+linkedin
+github
+
+
+Education Details
+
+Education :- 10th,school,year,percentage
+             12th,collage,year,stream,percentage
+             diploma,collage,year,stream,aggrigate
+             
+Code langualge :- c,c++,java,c#,javascript,python,dart,html,css,php,wordpress
+Courses:- any
+Freamworks :- angular,reactjs,angularjs,flutter,vue,nextjs,nodejs,
+sql,nosql,mongodb,firebase
+Position what they do :- web development,uiux,game design,backend development,
+frontend development,photography,full stack devleopment,
+
+Professionalsummary
+
+Work Details
+
+Expriance
+Projects complete
+Awords any
+Happy customers
+Services provide dropdown+Other
+Recomendation + coluge
+Works images
+Workhistory
+
+
